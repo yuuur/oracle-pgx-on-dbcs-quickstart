@@ -1,6 +1,6 @@
 # List of topics covered in this repository
 
-- [How to setup and start to use Oracle Property Graph server](https://github.com/rexzj266/oracle-pgx-on-dbcs-quickstart/blob/master/manual-setup/pgx-manual-setup-dbcs.md)
+- [How to set up and start to use Oracle Property Graph server](https://github.com/rexzj266/oracle-pgx-on-dbcs-quickstart/blob/master/manual-setup/pgx-manual-setup-dbcs.md)
   - [English](https://github.com/rexzj266/oracle-pgx-on-dbcs-quickstart/blob/master/manual-setup/pgx-manual-setup-dbcs.md)
   - 中文版
   - [日本語](https://github.com/kumasan368/oracle-pgx-on-dbcs-quickstart1/blob/master/manual-setup/pgx-manual-setup-dbcs-jp.md)
