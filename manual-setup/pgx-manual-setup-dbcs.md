@@ -1,6 +1,6 @@
-# How to setup and start to use Oracle Property Graph server
+# How to set up and start to use Oracle Property Graph server
 
-In this article, I will introduce how to install and setup Oracle Property Graph Server and client in an Oracle Cloud Infrastructure Database System instance. We will also talk about how to configure them properly to make connection from the client to the property graph server and to the database server.
+In this article, I will introduce how to install and set up Oracle Property Graph Server and client in an Oracle Cloud Infrastructure Database System instance. We will also talk about how to configure them properly to make connection from the client to the property graph server and to the database server.
 
 Besides the topic of setting up, we will also prepare 2 samples to experience the advantage of graph technology.
 
